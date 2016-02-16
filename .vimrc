@@ -13,8 +13,9 @@ set expandtab
 filetype plugin indent on
 
 " colorscheme
+set t_Co=256
 syntax on
-colorscheme buddy
+colorscheme zenburn
 
 " lightline.vim
 set noshowmode
