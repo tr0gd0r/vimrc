@@ -20,3 +20,8 @@ colorscheme zenburn
 " lightline.vim
 set noshowmode
 set laststatus=2
+
+" misc mappings
+imap jj <Esc>
+nnoremap ; <cmd>Telescope find_files<cr>
+
